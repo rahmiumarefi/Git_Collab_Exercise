@@ -41,7 +41,7 @@ struct DetailView: View {
                 .frame(height: 20)
                 .padding(.horizontal, 40)
             
-            Spacer()
+           Spacer()
         }
         .foregroundColor(.orange)
         .toolbar {
