@@ -44,7 +44,7 @@ struct ContentView_Previews: PreviewProvider {
 
 struct ListRowView: View {
     var body: some View {
-//      buat orang kedua, ini kerjaan lu: beresin si DetailView
+
         NavigationLink(destination: DetailView()) {
             HStack(alignment: .top) {
                 Rectangle()
